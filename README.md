@@ -1,2 +1,6 @@
 # my_runner
-_make re && ./my_runner_
+PDF available
+
+___For this project, i remind you that is necessary to have libsfml.___
+### Usage:
+    ./my_runner
