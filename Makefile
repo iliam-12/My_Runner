@@ -1,4 +1,4 @@
-NAME	= program
+NAME	= my_runner
 
 CC	= gcc
 
